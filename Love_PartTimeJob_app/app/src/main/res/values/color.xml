@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbarcolor">#fe4d00</color>
+    <color name="white">#ffffff</color>
+    <color name="moren">#b7b7b7</color>
+    <color name="qianhui">#ddd</color>
+    <color name="textcolor">#1a1a1a</color>
+    <color name="textcolors">#666666</color>
+</resources>
