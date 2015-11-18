@@ -15,12 +15,23 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.best.love_parttimejob_app.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name"
+            android:theme="@style/StopTitle" >
+        </activity>
+        <activity
+            android:name="com.best.love_parttimejob_app.StartActivity"
+            android:label="@string/title_activity_start"
+            android:theme="@style/StopAll" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.best.love_parttimejob_app.GuideActivity"
+            android:label="@string/title_activity_guide"
+            android:theme="@style/StopAll" >
         </activity>
     </application>
 
