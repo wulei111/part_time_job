@@ -1,12 +1,13 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.best.love_parttimejob_app.com.best.LoginActivity">
+    tools:context="com.best.love_parttimejob_app.LoginActivity">
 
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:orientation="vertical">
+        <!--toolbar-->
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="0dp"
@@ -44,6 +45,10 @@
                 android:gravity="center_vertical"
                 />
         </LinearLayout>
+        <!--toolbar-->
+
+
+        <!-- body-->
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="0dp"
@@ -51,6 +56,7 @@
             android:paddingLeft="15dp"
             android:paddingRight="15dp"
             android:orientation="vertical">
+            <!-- 主要内容-->
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="0dp"
@@ -107,9 +113,15 @@
                         android:layout_weight="0.6"
                         android:text="短信验证登录"
                         android:gravity="center_vertical"
+                        android:onClick="duanxinlogin"
+                        android:id="@+id/duanxin"
                         />
                 </LinearLayout>
             </LinearLayout>
+            <!-- 主要内容-->
+
+
+
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="0dp"
@@ -118,6 +130,7 @@
             </LinearLayout>
 
         </LinearLayout>
+        <!-- body-->
     </LinearLayout>
 
 </RelativeLayout>

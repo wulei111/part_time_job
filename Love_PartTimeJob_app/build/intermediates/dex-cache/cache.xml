@@ -6,28 +6,28 @@
         jumboMode="false"
         revision="23.0.0"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="D:\sourcetree\lovejob\Love_PartTimeJob_app\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-fa35cd2ae6bb158020553c402d2b54382b9c00e7.jar" />
+        <dex dex="D:\sourcetree\xiangmu\Love_PartTimeJob_app\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-fa35cd2ae6bb158020553c402d2b54382b9c00e7.jar" />
     </item>
     <item
-        jar="D:\sourcetree\lovejob\Love_PartTimeJob_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="D:\sourcetree\lovejob\Love_PartTimeJob_app\app\build\intermediates\pre-dexed\debug\classes-4cfe801ced9b3cd1e1dc35253d2ffec06a77bec7.jar" />
-    </item>
-    <item
-        jar="D:\sourcetree\lovejob\Love_PartTimeJob_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jar="D:\sourcetree\xiangmu\Love_PartTimeJob_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="D:\sourcetree\lovejob\Love_PartTimeJob_app\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-183917a9ef2837bb4f29cc5e1255a2aa3cedaf38.jar" />
+        <dex dex="D:\sourcetree\xiangmu\Love_PartTimeJob_app\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-3ccf120a46dbb7d0542e657fa2546f90f66de626.jar" />
     </item>
     <item
-        jar="D:\sourcetree\lovejob\Love_PartTimeJob_app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jar="D:\sourcetree\xiangmu\Love_PartTimeJob_app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="D:\sourcetree\lovejob\Love_PartTimeJob_app\app\build\intermediates\pre-dexed\debug\classes-4a8548329e59bd8986addbae7d5c5dc112684645.jar" />
+        <dex dex="D:\sourcetree\xiangmu\Love_PartTimeJob_app\app\build\intermediates\pre-dexed\debug\classes-0c108da69b2ebe7347060d6a51cde367e48178cd.jar" />
+    </item>
+    <item
+        jar="D:\sourcetree\xiangmu\Love_PartTimeJob_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\sourcetree\xiangmu\Love_PartTimeJob_app\app\build\intermediates\pre-dexed\debug\classes-b715ed9731765e74138adf2db66ad5e6d9ec7b5e.jar" />
     </item>
 
 </items>

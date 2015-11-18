@@ -16,11 +16,21 @@
         <activity
             android:name="com.best.love_parttimejob_app.MainActivity"
             android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.best.love_parttimejob_app.LoginActivity"
+            android:label="LoginActivity"
+            android:theme="@style/StopTitle" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.best.love_parttimejob_app.ValidateLoginActivity"
+            android:label="@string/title_activity_validate"
+            android:theme="@style/StopTitle" >
         </activity>
     </application>
 
