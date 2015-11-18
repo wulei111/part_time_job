@@ -32,6 +32,11 @@
             android:label="@string/title_activity_validate"
             android:theme="@style/StopTitle" >
         </activity>
+        <activity
+            android:name="com.best.love_parttimejob_app.RegisteredActivity"
+            android:label="@string/title_activity_registered"
+            android:theme="@style/StopTitle" >
+        </activity>
     </application>
 
 </manifest>

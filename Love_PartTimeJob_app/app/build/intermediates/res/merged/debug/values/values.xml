@@ -35,7 +35,6 @@
     <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="buttoncolor">#F15B04</color>
-    <color name="danhong">#D02A2A</color>
     <color name="danlan">#24C4F6</color>
     <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
@@ -74,6 +73,11 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="red">#ff0000</color>
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
     <color name="ripple_material_dark">#33ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
@@ -249,6 +253,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="title_activity_registered">RegisteredActivity</string>
     <string name="title_activity_validate">ValidateActivity</string>
     <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>

@@ -14,7 +14,7 @@
         <activity
             android:name=".LoginActivity"
             android:label="LoginActivity"
-            android:theme="@style/StopTitle">
+            android:theme="@style/StopTitle" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,8 +24,12 @@
         <activity
             android:name=".ValidateLoginActivity"
             android:label="@string/title_activity_validate"
+            android:theme="@style/StopTitle" >
+        </activity>
+        <activity
+            android:name=".RegisteredActivity"
+            android:label="@string/title_activity_registered"
             android:theme="@style/StopTitle">
-
         </activity>
     </application>
 
