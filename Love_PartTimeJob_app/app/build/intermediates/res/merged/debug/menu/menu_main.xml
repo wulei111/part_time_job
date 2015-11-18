@@ -4,4 +4,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/menu/menu_main.xml -->
+<!-- From: file:/D:/parttimejob_apps/Love_PartTimeJob_app/app/src/main/res/menu/menu_main.xml -->
