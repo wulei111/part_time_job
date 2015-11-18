@@ -128,7 +128,7 @@
                     android:textColor="@color/textcolors"
                     android:textSize="18sp"/>
             </LinearLayout>
-            <!-- 时间-->
+            <!-- 开始时间-->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -141,6 +141,29 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:text="开始时间："
+                    android:textColor="@color/textcolor"
+                    android:textSize="18sp"/>
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="2015-11-17"
+                    android:textColor="@color/textcolors"
+                    android:textSize="18sp"/>
+            </LinearLayout>
+            <!-- 天数-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:paddingLeft="15dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:text="时间："
                     android:textColor="@color/textcolor"
                     android:textSize="18sp"/>
@@ -148,7 +171,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="2015-11-17到2015-11-17"
+                    android:text="3天"
                     android:textColor="@color/textcolors"
                     android:textSize="18sp"/>
             </LinearLayout>
