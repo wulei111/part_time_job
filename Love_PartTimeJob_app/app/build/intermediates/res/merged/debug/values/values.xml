@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -32,12 +32,12 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="buttoncolor">#F15B04</color>
     <color name="danhong">#D02A2A</color>
     <color name="danlan">#24C4F6</color>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -61,10 +61,10 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="moren">#747b80</color>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -80,17 +80,17 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="shenhong">#901212</color>
     <color name="shenlan">#007CA5</color>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="toolbarcolor">#FE4D00</color>
     <color name="white">#FFFFFF</color>
@@ -122,7 +122,7 @@
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/></declare-styleable>
     <declare-styleable name="ViewBackgroundHelper"><attr name="android:background"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -191,11 +191,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
@@ -239,29 +239,24 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">Love_PartTimeJob_app</string>
     <string name="hello_world">Hello world!</string>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/strings.xml -->
-    <eat-comment/>
-    <string name="title_activity_login">LoginActivity</string>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
-    <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
     </style>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/D:/sourcetree/xiangmu/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1342,16 +1337,6 @@
         <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
     </style>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/src/main/res/values/styles.xml -->
-    <eat-comment/>
-    <style name="StopAll" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:windowFullscreen">true</item>
-    </style>
-    <style name="StopTitle" parent="Theme.AppCompat.Light.NoActionBar">
-    <item name="android:windowNoTitle">true</item>
-    </style>
-    <!-- From: file:/D:/sourcetree/lovejob/Love_PartTimeJob_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
-    <eat-comment/>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
     <style name="TextAppearance.AppCompat.Body2" parent="Base.TextAppearance.AppCompat.Body2"/>

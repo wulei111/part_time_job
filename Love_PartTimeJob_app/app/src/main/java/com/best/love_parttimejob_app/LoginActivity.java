@@ -1,4 +1,4 @@
-package com.best.love_parttimejob_app.com.best;
+package com.best.love_parttimejob_app;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

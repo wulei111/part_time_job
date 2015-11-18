@@ -16,11 +16,6 @@
         <activity
             android:name="com.best.love_parttimejob_app.MainActivity"
             android:label="@string/app_name" >
-        </activity>
-        <activity
-            android:name="com.best.love_parttimejob_app.com.best.LoginActivity"
-            android:label="@string/title_activity_login"
-            android:theme="@style/StopTitle" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
