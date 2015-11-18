@@ -19,6 +19,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
 //    短信验证登录
+    
     public void duanxinlogin(View view){
         Intent intent = new Intent(this,ValidateLoginActivity.class);
         startActivity(intent);
